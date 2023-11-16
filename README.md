@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Aiman Imam
+<hr1>Author - Aiman Imam</hr>
